@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francis-Fan-creat, a math student from PKU
+- 👋 Hi, I’m @Francis-Fan-create, a math student from PKU
 - 👀 I’m interested in rare event sampling and high dimensional PDE solver, especially those associated with machine learning and statistics
 - 🌱 I’m currently learning statistical physics, stochastic control and QFT
 - 💞️ I’m looking to collaborate on AI4Science projects
