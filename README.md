@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning statistical physics, stochastic control and QFT
 - 💞️ I’m looking to collaborate on AI4Science projects
 - 📫 How to reach me 2200010816@stu.pku.edu.cn
-- 😄 Pronouns: Zexi
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a heavy galgamer~
 
 <!---
